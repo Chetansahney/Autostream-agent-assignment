@@ -18,7 +18,10 @@ To deploy this on WhatsApp, I would use the **Meta Cloud API** with a Python bac
 2. **Session ID:** Use the user's phone number (`wa_id`) as the unique session key.
 3. **Persistence:** Store the `AgentState` in a Redis database, keyed by the phone number. When a message arrives, load the state, run the LangGraph workflow, and save the updated state back to Redis.
 4. **Response:** Send the agent's text response back via the Meta API.
+## 🎥 Demo Video
+Here is a screen recording of the agent in action, demonstrating RAG, Intent Detection, and Lead Capture:
 
+[▶️ Watch the Demo Video](https://drive.google.com/file/d/1Kvh4cWZRFAGgpKE1axms7mLRSSzTmqAN/view?usp=sharing)
 ## How to Run Locally
 
 1. **Clone the repository:**
