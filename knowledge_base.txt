@@ -1,0 +1,19 @@
+# AutoStream Product Information
+
+## Pricing & Features
+### Basic Plan
+- **Cost**: $29/month
+- **Limit**: 10 videos/month
+- **Resolution**: 720p
+- **Support**: Standard email support
+
+### Pro Plan
+- **Cost**: $79/month
+- **Limit**: Unlimited videos
+- **Resolution**: 4K resolution
+- **Features**: AI captions included
+- **Support**: 24/7 priority support
+
+## Company Policies
+- **Refunds**: No refunds after 7 days of purchase.
+- **Support Availability**: 24/7 live support is available ONLY for Pro plan subscribers. Basic plan users get response within 24 hours.

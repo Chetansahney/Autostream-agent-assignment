@@ -1,0 +1,7 @@
+langchain
+langchain-google-genai
+langgraph
+faiss-cpu
+python-dotenv
+tiktoken
+langchain-community
